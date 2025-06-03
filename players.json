@@ -7,7 +7,7 @@
       "Position": "Goalkeeper",
       "International": "Brazil",
       "Team": "Liverpool",
-      "Poster": "hhttps://i.postimg.cc/pTqptLbZ/Alisson.jpg"
+      "Poster": "https://i.postimg.cc/pTqptLbZ/Alisson.jpg"
     },
     {
       "no": "4",
@@ -89,6 +89,15 @@
       "International": "Colombia",
       "Team": "Liverpool",
       "Poster": "https://i.postimg.cc/BQM9cP5N/Luis-Diaz.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Jeremie Frimpong",
+      "birth_date": "2000-12-10",
+      "Position": "Defender",
+      "International": "Netherlands",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/k4v9018P/Frimpong.jpg"
     }
   ]
 }
