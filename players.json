@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Alisson Becker",
+      "birth_date": "1992-10-02",
+      "Position": "Goalkeeper",
+      "International": "Brazil",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/yN1G9pPY/Alisson.png"
+    },
+    {
+      "no": "4",
+      "name": "Virgil van Dijk",
+      "birth_date": "1991-07-08",
+      "Position": "Defender",
+      "International": "Netherlands",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/8cF3Q5gM/Van-Dijk.png"
+    },
+    {
+      "no": "5",
+      "name": "Ibrahima Konaté",
+      "birth_date": "1999-05-25",
+      "Position": "Defender",
+      "International": "France",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/nzL0Y6Gc/Konate.png"
+    },
+    {
+      "no": "10",
+      "name": "Alexis Mac Allister",
+      "birth_date": "1998-12-24",
+      "Position": "MIDFIELDERS",
+      "International": "Argentina",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/SxD47c1V/Mac-Allister.png"
+    },
+    {
+      "no": "8",
+      "name": "Dominik Szoboszlai",
+      "birth_date": "2000-10-25",
+      "Position": "MIDFIELDERS",
+      "International": "Hungary",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/zXJdNwRQ/Szoboszlai.png"
+    },
+    {
+      "no": "11",
+      "name": "Mohamed Salah",
+      "birth_date": "1992-06-15",
+      "Position": "FORWARDS",
+      "International": "Egypt",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/SRK9pP2L/Salah.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Darwin Núñez",
+      "birth_date": "1999-06-24",
+      "Position": "FORWARDS",
+      "International": "Uruguay",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/6qtCL1yH/Nunez.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Wataru Endo",
+      "birth_date": "1993-02-09",
+      "Position": "MIDFIELDERS",
+      "International": "Japan",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/ZKD0G49D/Endo.jpg"
+    },
+    {
+      "no": "26",
+      "name": "Andrew Robertson",
+      "birth_date": "1994-03-11",
+      "Position": "Defender",
+      "International": "Scotland",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/90mjTrwm/Robertson.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Luis Díaz",
+      "birth_date": "1997-01-13",
+      "Position": "FORWARDS",
+      "International": "Colombia",
+      "Team": "Liverpool",
+      "Poster": "https://i.postimg.cc/GpVn7vWR/Diaz.jpg"
+    }
+  ]
+}
